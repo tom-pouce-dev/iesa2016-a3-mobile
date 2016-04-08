@@ -5,6 +5,9 @@
 * Changer de répertoire : `cd ..`
 * Chemin courant : `pwd`
 
-Ajout ligne
+Ajout ligne. Le $ est ajouté par défaut.
 
-tet commande 
+$ cordova platforms add ios --save  -> permet d'ajouter un os
+$ cordova platforms rm ios
+$ cordova platforms update ios
+$ cordova plarforms ls 
